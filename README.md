@@ -1,4 +1,4 @@
-<img width="450" height="68" alt="image" src="https://github.com/user-attachments/assets/7e124396-9945-49ca-82b2-d99bb68e3baa" /><img width="306" height="46" alt="image" src="https://github.com/user-attachments/assets/c06e781f-d662-479f-9785-d37b34dcb03c" /><img width="306" height="46" alt="image" src="https://github.com/user-attachments/assets/fd60585f-8c3d-4f61-8536-f79eb399c275" /><img width="472" height="68" alt="image" src="https://github.com/user-attachments/assets/839aec8f-5114-422e-a23c-06597b84a687" /># ServiceNow-AI-Agent
+<img width="1024" height="500" alt="servnagen" src="https://github.com/user-attachments/assets/65609657-8b8b-472d-8c5e-994186ad3700" />
 
 # ServiceNow AI Agent to suggest Assignment Group for an incident ticket.
 
@@ -47,3 +47,5 @@
 - **Input name:** number & assignment_group
 - **Execution mode:** Supervised
 - **Show output:** Yes
+
+❤ Thank you for visiting, hope it helped you in your agentic AI journey. ❤
