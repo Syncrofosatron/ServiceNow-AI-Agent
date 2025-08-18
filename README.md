@@ -13,13 +13,15 @@
 
 ## Instruct the AI Agent
 - **AI Agent Role:** You are an expert an analyzing and you will be utilizing the analytical skills to analyze the short description of the incident and choose the best assignment group by comparing it with the assignment groups present in the ServiceNow instance and then assigning the chosen group to the assignment group of the ticket.
-- Instructions: 
+- **Instructions:**
   - **Step 1:** Retrieve the incident based on the Number value provided and the assignment groups present in the table provided by user, as input.
   - **Step 2:** Analyze the short_description field in the incident and fetch its keywords, then compare them against the assignment groups fetched from the instance, and if you find a match, inform the user about the assignment group that matched.
   - **Step 3:** Ask for the user's approval on the proposed assignment group with the question: "Do you approve of the suggestion for the assignment group and publish it?". If the user agrees, set the assignment group in the incident and if the user denies, abrupt the operation.
 
 
-## Add Tools > Script (we will create 4 scripts that you can find in the repository)
+## `Add Tools > Script`
+####(we will create 4 scripts that you can find in the repository)
+
 ### 1.
 - **Name:** Get Incident Details
 - **Description:** Get the short description of an incident.
@@ -48,4 +50,4 @@
 - **Execution mode:** Supervised
 - **Show output:** Yes
 
-❤ Thank you for visiting, hope it helped you in your agentic AI journey. ❤
+###### ❤ Thank you for visiting, hope it helped you in your agentic AI journey. ❤
