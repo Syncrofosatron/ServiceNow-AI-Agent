@@ -20,7 +20,7 @@
 
 
 ## `Add Tools > Script`
-#### (we will create 4 scripts that you can find in the repository)
+#### We will create 4 scripts in this project and you can find that in the repository's [folder](https://github.com/Syncrofosatron/ServiceNow-AI-Agent/tree/main/Assignment%20Group%20Expert).
 
 ### 1.
 - **Name:** Get Incident Details
