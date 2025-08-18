@@ -20,7 +20,7 @@
 
 
 ## `Add Tools > Script`
-####(we will create 4 scripts that you can find in the repository)
+#### (we will create 4 scripts that you can find in the repository)
 
 ### 1.
 - **Name:** Get Incident Details
